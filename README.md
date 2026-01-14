@@ -3,6 +3,8 @@
 > A Retrieval-Augmented Generation system built from scratch that answers nutrition questions using sentence transformers, PostgreSQL with pgvector, and locally-hosted LLMs.
 
 **Presented by:** Akshit Tyagi
+<img width="1470" height="708" alt="Screenshot 2026-01-13 at 7 32 39 PM" src="https://github.com/user-attachments/assets/a867dc04-07b5-4db6-ae7c-b1b40a6e925a" />
+
 
 
 
